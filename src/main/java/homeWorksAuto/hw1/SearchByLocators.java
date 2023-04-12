@@ -3,10 +3,9 @@ package homeWorksAuto.hw1;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class locators {
+public class SearchByLocators {
     private static class Urls {
         private static final String koshki1 = "https://uhomki.com.ua/koshki/1074/";
         private static final String jetbrains = "https://www.jetbrains.com/idea/";
