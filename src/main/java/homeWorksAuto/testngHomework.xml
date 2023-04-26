@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HW27 Test Suite">
+    <test name="AllTestCases">
+        <classes>
+            <class name="testng.hw27TestingOpenPages.CheckBoxTest"/>
+            <class name="testng.hw27TestingOpenPages.ChekingAlertTest"/>
+            <class name="testng.hw27TestingOpenPages.OpenPagesTest"/>
+            <class name="testng.hw27TestingOpenPages.OplataDostavkaPageTest"/>
+            <class name="testng.hw27TestingOpenPages.SearchPageTest"/>
+        </classes>
+    </test>
+</suite>
