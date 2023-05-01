@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel Tests Suite" parallel="classes" thread-count="2">
+    <test name="ParallelTestCases">
+        <classes>
+            <class name="testng.hw28GroupingTestCases.parallelismus.ParallelClass1"/>
+            <class name="testng.hw28GroupingTestCases.parallelismus.ParallelClass2"/>
+        </classes>
+    </test>
+</suite>

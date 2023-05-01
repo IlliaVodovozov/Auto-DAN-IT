@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestFoxtrotSearch Suite">
+
+
+    <test name="TestFoxtrotCases1">
+        <classes>
+            <class name="testng.hw28GroupingTestCases.SearchFormParameterTest">
+                <parameter name="searchInput" value="input"/>
+            </class>
+        </classes>
+    </test>
+
+    <test name="TestFoxtrotCases2">
+        <classes>
+            <class name="testng.hw28GroupingTestCases.SearchFormParameterTest">
+                <parameter name="searchInput" value="смысл"/>
+            </class>
+        </classes>
+    </test>
+
+    <test name="TestFoxtrotCases3">
+        <classes>
+            <class name="testng.hw28GroupingTestCases.SearchFormParameterTest">
+                <parameter name="searchInput" value="машина"/>
+            </class>
+        </classes>
+    </test>
+
+</suite>
